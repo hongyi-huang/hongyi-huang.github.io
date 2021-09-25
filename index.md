@@ -10,7 +10,9 @@ title: About Me
 
 * Following newly overlaps between ***AI technologies*** and ***networking***
 
-* More information in my CV. [[EN]]({{https://hongyi-huang.github.io}}/files/resume_Hongyi_Huang.pdf) [[CN]]({{https://hongyi-huang.github.io}}/files/简历_黄宏毅.pdf)
+* Welcome to access our [NFD Projects](https://nfd.hongyi-huang.com)
+
+* More information enclosed in my CV [[EN]]({{https://hongyi-huang.github.io}}/files/resume_Hongyi_Huang.pdf) [[CN]]({{https://hongyi-huang.github.io}}/files/简历_黄宏毅.pdf)
 
 
 <br/>
