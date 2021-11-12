@@ -1,3 +1,9 @@
-V2rayU mac -- server.list
-kitsunebi -- server.list2
-v2rayN win -- server.list3 or v2rayn.list
+V2rayU mac -- server.list  auto gen
+kitsunebi -- server.list2  manual gen
+v2rayN win -- server.list3 or v2rayn.list  auto gen
+
+
+raw list content:
+hhy tcp
+us tcp
+us quic
