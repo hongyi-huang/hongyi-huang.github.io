@@ -20,7 +20,7 @@ with open("raw.txt", "r") as fr, open("server.list", "w+") as fw1, open("server.
         # chacha20-poly1305:cef93178-c454-4976-b499-ed4bd0d5331f@173.230.156.221:52209
         ob = json.loads(decode(bts))
         keywords = [encode("chacha20-poly1305:%s@%s:%s" % (ob["id"], ob["add"], ob["port"]))]
-        keywords.append("network=%s&aid=0&tls=0&allowInsecure=1&mux=0&remark=%s" % (ob["net"], ob["ps"]))
+        keywords.append("network=%s&aid=%s&tls=0&allowInsecure=1&mux=0&remark=%s" % (ob["net"], ob["aid"], ob["ps"]))
         v2rayn_list.append("vmess://" + "?".join(keywords))
     fw2.write(encode("\n".join(v2rayn_list)))
     fw3.write(encode(lines))
