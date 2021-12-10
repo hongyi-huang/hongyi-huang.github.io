@@ -1,6 +1,10 @@
 import base64
 import json
+import os
 #print(base64.b64decode(input.encode("ascii")).decode("ascii"))
+
+os.chdir(input("Work Dir: "))
+print(os.getcwd())
 
 def encode(input):
     return base64.b64encode(input.encode("ascii")).decode("ascii")
