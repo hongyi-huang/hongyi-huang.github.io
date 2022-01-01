@@ -13,7 +13,7 @@ Symposium (**NOMS ’22**).
 
 3. **Hongyi Huang**, Wenfei Wu, Zehua Guo, and Yongchao He. ***SFP: Service Function Chain Provision on Programmable Switches for Cloud Tenants.*** To appear in the 36th IEEE International Parallel & Distributed Processing Symposium (**IPDPS ’22**). (First round acceptance: 9.7%) 
 
-4. **Hongyi Huang**, Wenfei Wu, Yongchao He, Bangwen Deng, Ying Zhang, Yongqiang Xiong, Guo Chen, Yong Cui, and Peng Cheng. ***NFD: A Development Framework for Cross-Platform Network Functions.*** In the 2021 IEEE International Conference on Computer Communications (**INFOCOM ’21**). [[pdf]]({{https://hongyi-huang.github.io}}/files/2021_INFOCOM_NFD.pdf) [[slides]]({{https://hongyi-huang.github.io}}/files/NFD_INFOCOM21_slides.pdf)
+4. **Hongyi Huang**, Wenfei Wu, Yongchao He, Bangwen Deng, Ying Zhang, Yongqiang Xiong, Guo Chen, Yong Cui, and Peng Cheng. ***NFD: Using Behavior Models to Develop Cross-Platform Network Functions.*** In the 2021 IEEE International Conference on Computer Communications (**INFOCOM ’21**). [[pdf]]({{https://hongyi-huang.github.io}}/files/2021_INFOCOM_NFD.pdf) [[slides]]({{https://hongyi-huang.github.io}}/files/NFD_INFOCOM21_slides.pdf)
 
 5. Minglai Shao, Jianxin Li, Qiben Yan, Feng Chen, **Hongyi Huang**, and Xunxun Chen. 2020. ***Structured Sparsity Model Based Trajectory Tracking Using Private Location Data Release.*** In IEEE Transactions on Dependable and Secure Computing (**TDSC**). [[link]](https://ieeexplore.ieee.org/document/8986753)
 
