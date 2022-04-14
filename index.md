@@ -4,7 +4,7 @@ title: About Me
 ---
 
 
-* Currently 5th year Ph.D. student at Dr. [Wenfei Wu](https://wenfei-wu.github.io)’s lab in *Tsinghua University*, looking for a job
+* Currently 5th/last year Ph.D. student at Dr. [Wenfei Wu](https://wenfei-wu.github.io)’s lab in *Tsinghua University*
 
 * Research interest in ***network function virtualization*** (modeling, orchestration, verification), ***network management (operations)*** and ***programmable data plane (P4)*** for redefining network and acceleration
 
@@ -25,4 +25,4 @@ title: About Me
 
 - ***Ph.D Student, Tsinghua University***, 2017 - present
   	
-  Under supervision of [Wenfei Wu](https://wenfei-wu.github.io)
+  Under supervision of [Wenfei Wu](https://wenfei-wu.github.io) and [Wei Xu](https://people.iiis.tsinghua.edu.cn/~weixu/)
