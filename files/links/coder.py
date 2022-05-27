@@ -32,7 +32,7 @@ with open("raw.txt", "r") as fr, open("server.list", "w+") as fw1, open("server.
         keywords = [encode("auto:%s@%s:%s" % (ob["id"], ob["add"], ob["port"]))]
         # check if tls
         if ob["net"]=="ws":
-            keywords.append("network=%s&wsHost=%s&aid=0&tls=1&allowInsecure=1&mux=0&remark=%s" % (ob["host"],ob["net"], ob["ps"]))
+            keywords.append("network=%s&wsHost=%s&aid=0&tls=1&allowInsecure=1&mux=0&remark=%s" % (ob["net"], ob["host"], ob["ps"]))
         else:
             keywords.append("network=%s&aid=0&tls=0&allowInsecure=1&mux=0&remark=%s" % (ob["net"], ob["ps"]))
         v2rayn_list.append("vmess://" + "?".join(keywords))
