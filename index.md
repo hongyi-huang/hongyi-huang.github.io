@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About Me
+title: About Hongyi(宏毅) Huang(黄) 
 ---
 
 * To join Data Communication Research Department, ***Huawei*** in August 
@@ -21,10 +21,11 @@ title: About Me
 
 ### **Education**
 
+- ***Ph.D in Computer Science & Technology, Tsinghua University***, 09/2017 - 06/2022
+  	
+  Thesis entitled "Research on Development, Deployment and Operations of Network Functions Based on DevOps" (advised by [Wenfei Wu](https://wenfei-wu.github.io) and [Wei Xu](https://people.iiis.tsinghua.edu.cn/~weixu/))
+
 - ***B.S. in Computer Science & Technology, Beihang University***, 09/2013 - 06/2017
   	
   Thesis entitled "Design and Implementation of Algorithm Library and System for Anomalous Subgraph Detection" (advised by [Jianxin Li](http://act.buaa.edu.cn/lijx/))
 
-- ***Ph.D in Computer Science & Technology, Tsinghua University***, 09/2017 - 06/2022
-  	
-  Thesis entitled "Research on Development, Deployment and Operations of Network Functions Based on DevOps" (advised by [Wenfei Wu](https://wenfei-wu.github.io) and [Wei Xu](https://people.iiis.tsinghua.edu.cn/~weixu/))
