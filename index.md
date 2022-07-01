@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About Hongyi(宏毅) Huang(黄) 
+title: About Me 
 ---
 
 * To join Data Communication Research Department, ***Huawei*** in August 
