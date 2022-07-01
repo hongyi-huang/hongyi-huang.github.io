@@ -11,7 +11,7 @@ title: About Hongyi(宏毅) Huang(黄)
 
 * Following newly overlaps between ***AI technologies*** and ***networking***
 
-* Welcome to access our [NFD Projects](https://nfd.hongyi-huang.com)
+* Welcome to access our [NFD Projects](https://nfd.hongyi-huang.com) about ***Cross-Platform NF Development***
 
 * More information enclosed in my CV [[EN]]({{https://hongyi-huang.github.io}}/files/resume_Hongyi_Huang.pdf) [[CN]]({{https://hongyi-huang.github.io}}/files/简历_黄宏毅.pdf)
 
