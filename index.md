@@ -5,7 +5,7 @@ title: About Me
 
 * To join Data Communication Research Department, ***Huawei*** in August 
 
-* Receive my Ph.D. degree from ***Tsinghua University*** (advisor: [Wenfei Wu](https://wenfei-wu.github.io)) in June, 2022
+* Receive my Ph.D. degree in CS from ***Tsinghua University*** (advisor: [Wenfei Wu](https://wenfei-wu.github.io)) in June, 2022
 
 * Research interest in ***network function virtualization*** (modeling, orchestration, verification), ***network management (operations)*** and ***programmable data plane (P4)*** for redefining network and acceleration
 
