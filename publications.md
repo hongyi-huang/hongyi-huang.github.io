@@ -3,16 +3,16 @@ layout: page
 title: Publications
 ---
 
-1. **Hongyi Huang**, Wenfei Wu, Zehua Guo, and Yongchao He. ***SFP: Service Function Chain Provision on Programmable Switches for Cloud Tenants.*** To appear in the 36th IEEE International Parallel & Distributed Processing Symposium (**IPDPS ’22**). (First round acceptance: 9.7%) 
+1. **Hongyi Huang**, Wenfei Wu, Zehua Guo, and Yongchao He. ***SFP: Service Function Chain Provision on Programmable Switches for Cloud Tenants.*** To appear in the 36th IEEE International Parallel & Distributed Processing Symposium (**IPDPS ’22**). (First round acceptance: 9.7%) [[preprint]]({{https://hongyi-huang.github.io}}/files/2022_IPDPS_SFP.pdf)
 
 2. **Hongyi Huang**, Wenfei Wu, and Shimin Tao. ***WRS: Workflow Retrieval System for Cloud Automatic
-Remediation.*** To appear in the 2022 IEEE/IFIP Network Operations and Management
-Symposium (**NOMS ’22**). [[preprint]]({{https://hongyi-huang.github.io}}/files/2022_NOMS_WRS.pdf)
+Remediation.*** In the 2022 IEEE/IFIP Network Operations and Management
+Symposium (**NOMS ’22**). [[link]](https://ieeexplore.ieee.org/document/9789843)
 
 3. **Hongyi Huang** and Wenfei Wu. ***HyperSFP:
 Fault-Tolerant Service Function Chain Provision on Programmable Switches
-in Data Centers.*** To appear in the 2022 IEEE/IFIP Network Operations and Management
-Symposium (**NOMS ’22**). [[preprint]]({{https://hongyi-huang.github.io}}/files/2022_NOMS_HyperSFP.pdf)
+in Data Centers.*** In the 2022 IEEE/IFIP Network Operations and Management
+Symposium (**NOMS ’22**). [[link]](https://ieeexplore.ieee.org/document/9789756)
 
 4. **Hongyi Huang**, Wenfei Wu, Yongchao He, Bangwen Deng, Ying Zhang, Yongqiang Xiong, Guo Chen, Yong Cui, and Peng Cheng. ***NFD: Using Behavior Models to Develop Cross-Platform Network Functions.*** In the 2021 IEEE International Conference on Computer Communications (**INFOCOM ’21**). [[pdf]]({{https://hongyi-huang.github.io}}/files/2021_INFOCOM_NFD.pdf) [[slides]]({{https://hongyi-huang.github.io}}/files/NFD_INFOCOM21_slides.pdf)
 
