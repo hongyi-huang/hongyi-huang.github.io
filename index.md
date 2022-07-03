@@ -1,6 +1,7 @@
 ---
 layout: home
 title: About Me 
+subtitle: Hongyi(宏毅) Huang(黄)
 ---
 
 * To join Data Communication Research Department, ***Huawei*** in August 
@@ -15,7 +16,7 @@ title: About Me
 
 * More information enclosed in my CV [[EN]]({{https://hongyi-huang.github.io}}/files/resume_Hongyi_Huang.pdf) [[CN]]({{https://hongyi-huang.github.io}}/files/简历_黄宏毅.pdf)
 
-* Contact me by [email](mailto:hhy.hongyi@outlook.com) or Wechat(ID: iygnoh)
+* Contact me by [email](mailto:hhy.hongyi@outlook.com) or Wechat (ID: iygnoh)
 
 <br/>
 
