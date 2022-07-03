@@ -4,7 +4,7 @@ title: About Me
 subtitle: Hongyi(宏毅) Huang(黄)
 ---
 
-* To join Data Communication Research Department, ***Huawei*** in August 
+* To join Data Communication Research Department, ***Huawei*** in August, 2022
 
 * Receive my Ph.D. degree in CS from ***Tsinghua University*** (advisor: [Wenfei Wu](https://wenfei-wu.github.io)) in June, 2022
 
