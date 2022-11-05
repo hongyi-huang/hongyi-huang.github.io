@@ -4,15 +4,13 @@ title: About Me
 subtitle: Hongyi(宏毅) Huang(黄)
 ---
 
-* To join Data Communication Research Department, ***Huawei*** in August, 2022
+* Work as Standard Representative in Data Communication Research Department, ***Huawei*** since August, 2022
+
+* The scope of work covers ***network function virtualization*** (modeling, orchestration, verificatio), ***network management (OAM)*** and ***computing-aware network (CAN)***
 
 * Receive my Ph.D. degree in CS from ***Tsinghua University*** (advisor: [Wenfei Wu](https://wenfei-wu.github.io)) in June, 2022
 
-* Research interest in ***network function virtualization*** (modeling, orchestration, verification), ***network management (operations)*** and ***programmable data plane (P4)*** for redefining network and acceleration
-
-* Following newly overlaps between ***AI technologies*** and ***networking***
-
-* Welcome to access our [NFD Projects](https://nfd.hongyi-huang.com) about ***Cross-Platform NF Development***
+* Welcome to access previous [NFD Projects](https://nfd.hongyi-huang.com) about ***Cross-Platform NF Development***
 
 * More information enclosed in my CV [[EN]]({{https://hongyi-huang.github.io}}/files/resume_Hongyi_Huang.pdf) [[CN]]({{https://hongyi-huang.github.io}}/files/简历_黄宏毅.pdf)
 
