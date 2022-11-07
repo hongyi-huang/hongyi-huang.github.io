@@ -23,11 +23,11 @@ with open("raw.txt", "r") as fr, open("server.list", "w+") as fw1, open("server.
         ob = json.loads(decode(bts))
         # change remark name
         ob["ps"]=server_remark
-        new_uri = "vmess://" + encode(json.dumps(ob))
+        new_uri = "vmess://" + encode(json.dumps(ob)) + "\n"
         # lines used for server.list3
         lines += new_uri
         # dump to server.list
-        fw1.write(new_uri + "\n")
+        fw1.write(new_uri)
         
         keywords = [encode("auto:%s@%s:%s" % (ob["id"], ob["add"], ob["port"]))]
         # check if tls
