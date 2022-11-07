@@ -27,7 +27,7 @@ with open("raw.txt", "r") as fr, open("server.list", "w+") as fw1, open("server.
         # lines used for server.list3
         lines += new_uri
         # dump to server.list
-        fw1.write(new_uri)
+        fw1.write(new_uri + "\n")
         
         keywords = [encode("auto:%s@%s:%s" % (ob["id"], ob["add"], ob["port"]))]
         # check if tls
