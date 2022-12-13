@@ -4,7 +4,7 @@ title: About Me
 subtitle: Hongyi(宏毅) Huang(黄)
 ---
 
-* Work as Standard Representative in Data Communication Research Department, ***Huawei*** since August, 2022
+* Work as Standard Representative in Data Communication Research Department, ***Huawei*** since August, 2022. My [profile](https://datatracker.ietf.org/person/Hongyi%20Huang) in IETF.
 
 * The scope of work covers ***network function virtualization*** (modeling, orchestration, verificatio), ***network management (OAM)*** and ***computing-aware network (CAN)***
 
