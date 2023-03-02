@@ -18,7 +18,7 @@ with open("raw.txt", "r") as fr, open("server.list", "w+") as fw1, open("server.
     for line in fr.readlines():
         server_remark, uri = line.strip().split(',')
         bts = uri[8:] # strip "vmess://"
-        print(decode(bts))
+        print("decode the raw text",decode(bts))
         # example:  "auto:cef93178-c454-4976-b499-ed4bd0d5331f@173.230.156.221:52209"
         ob = json.loads(decode(bts))
         # change remark name
