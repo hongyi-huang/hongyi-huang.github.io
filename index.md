@@ -6,13 +6,13 @@ subtitle: Hongyi(宏毅) Huang(黄)
 
 * Work as Standard Representative in Data Communication Research Department, ***Huawei*** since August, 2022. My [profile](https://datatracker.ietf.org/person/Hongyi%20Huang) in IETF.
 
-* The scope of work covers ***network function virtualization*** (modeling, orchestration, verificatio), ***network management (OAM)*** and ***computing-aware network (CAN)***
+* The scope of work covers ***service function chaining***, ***network management (OAM)*** and other emerging technologies for ***traffic optimization***
 
 * Receive my Ph.D. degree in CS from ***Tsinghua University*** (advisor: [Wenfei Wu](https://wenfei-wu.github.io)) in June, 2022
 
 * Welcome to access previous [NFD Projects](https://nfd.hongyi-huang.com) about ***Cross-Platform NF Development***
 
-* More information enclosed in my CV [[EN]]({{https://hongyi-huang.github.io}}/files/resume_Hongyi_Huang.pdf) [[CN]]({{https://hongyi-huang.github.io}}/files/简历_黄宏毅.pdf)
+* More information enclosed in my CV [[EN]]({{https://hongyi-huang.github.io}}/files/resume_Hongyi_Huang.pdf) 
 
 * Contact me by [email](mailto:hhy.hongyi@outlook.com) or Wechat (ID: iygnoh)
 
