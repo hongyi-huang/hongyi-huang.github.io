@@ -4,11 +4,13 @@ title: About Me
 subtitle: Hongyi(宏毅) Huang(黄)
 ---
 
-* Work as Standard Representative in Data Communication Research Department, ***Huawei*** since August, 2022. My [profile](https://datatracker.ietf.org/person/Hongyi%20Huang) in IETF.
+* Work as Researcher on AI network system at ***2012 Lab, Huawei*** since 10/2024.
+
+* As Standard Representative in Data Communication Product Line, ***Huawei*** from 08/2022 - 09/2024. Active in IETF ([profile](https://datatracker.ietf.org/person/Hongyi%20Huang)), [UEC](https://ultraethernet.org/), [ODCC](https://www.odcc.org.cn/) arounding DCN topics.
 
 * The scope of work covers ***service function chaining***, ***network management (OAM)*** and other emerging technologies for ***traffic optimization***
 
-* Receive my Ph.D. degree in CS from ***Tsinghua University*** (advisor: [Wenfei Wu](https://wenfei-wu.github.io)) in June, 2022
+* Received my Ph.D. degree in CS from ***Tsinghua University*** (advisor: [Wenfei Wu](https://wenfei-wu.github.io)) in June, 2022
 
 * Welcome to access previous [NFD Projects](https://nfd.hongyi-huang.com) about ***Cross-Platform NF Development***
 
